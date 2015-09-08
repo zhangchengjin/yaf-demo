@@ -200,19 +200,6 @@ p {
 	line-height: 50px;
 	margin-bottom: 29px;
 }
-#preloader-photo {
-	position: absolute;
-	height: 196px;
-	width: 196px;
-	padding: 82px 126px 111px;
-	top: -55px;
-	left: 50%;
-	margin-left: -224px;
-	background: url(../media/preloader-photo.png) center center;
-	z-index: 11;
-}
-
-
 
 /* HEADER
 ============================== */
