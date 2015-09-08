@@ -220,37 +220,7 @@ p {
 }
 
 /* Menu */
-#menu li {
-	float: left;
-	padding: 15px 18px 0 18px;
-	position: relative;
-	width: 100px;
-	height: 45px;
-}
-#menu li div.menu-icon {
-	display: block;
-	width: 100px;
-	height: 45px;
-	background-image:url(../media/bg-menu.png);
-	background-repeat: no-repeat;
-	text-indent: -2000%;
-	cursor: pointer;
-}
-#menu li a.menu-hover {
-	position: absolute;
-	top: 15px;
-	left: 0;
-	right: 0;
-	margin: 0 auto;
-	text-align: center;
-	width: 100px;
-	height: 45px;
-	line-height: 45px;
-	font-size: 14px;
-	font-weight: bold;
-	text-shadow: 0 1px 0px rgba(0, 0, 0, 0.75);
-	color: #dcdcdc;
-}
+
 div#menu-intro {
 	background-position: 0 top;
 }
