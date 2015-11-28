@@ -136,6 +136,7 @@ img {
   color: transparent;
   font-size: 0;
   vertical-align: middle;
+  width: 100%;
 /*
   For IE.
   http://css-tricks.com/ie-fix-bicubic-scaling-for-images
